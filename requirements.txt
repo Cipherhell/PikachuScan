@@ -1,0 +1,11 @@
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+IPy==1.1
+nmap==0.0.1
+PySocks==1.7.1
+regex==2021.4.4
+requests==2.25.1
+socks==0
+termcolor==1.1.0
+urllib3==1.26.5
